@@ -67,6 +67,7 @@ Module này sẽ thay đổi màu sắc của thanh điều hướng (navbar), c
     },
     'installable': True,
     'auto_install': True,
+    'post_init_hook': 'post_init_hook',
     'price': 0.0,
     'currency': 'EUR',
     'license': 'OPL-1',
