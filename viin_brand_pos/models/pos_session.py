@@ -4,7 +4,6 @@ from odoo import models
 from odoo.addons.base.models.ir_qweb_fields import Markup
 
 
-
 class PosSession(models.Model):
     _inherit = 'pos.session'
 
