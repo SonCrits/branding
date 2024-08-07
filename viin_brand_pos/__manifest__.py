@@ -64,6 +64,9 @@ Module này sẽ thay đổi màu sắc của thanh điều hướng (navbar), c
             'viin_brand_pos/static/src/app/navbar/navbar.js',
             'viin_brand_pos/static/src/app/popups/offline_error_popup.js',
         ],
+        'point_of_sale.assets_prod': [
+            'viin_brand_pos/static/src/css/**/*',
+        ],
     },
     'installable': True,
     'auto_install': True,
